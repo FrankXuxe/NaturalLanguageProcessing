@@ -1,7 +1,7 @@
 from operator import itemgetter
 from nltk.corpus import stopwords
 from textblob import TextBlob
-import nltk
+#import nltk
 from pathlib import Path
 import pandas as pd
 import matplotlib.pyplot as plt
